@@ -1,0 +1,110 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dying
+  rotate: false
+  xy: 1, 1660
+  size: 1872, 220
+  orig: 1872, 220
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 1, 1472
+  size: 1680, 186
+  orig: 1680, 186
+  offset: 0, 0
+  index: -1
+throwing
+  rotate: false
+  xy: 1875, 1695
+  size: 1632, 185
+  orig: 1632, 185
+  offset: 0, 0
+  index: -1
+attacking
+  rotate: false
+  xy: 1, 1286
+  size: 1624, 184
+  orig: 1624, 184
+  offset: 0, 0
+  index: -1
+attacking_in_the_air
+  rotate: false
+  xy: 1, 1100
+  size: 1416, 184
+  orig: 1416, 184
+  offset: 0, 0
+  index: -1
+sliding
+  rotate: false
+  xy: 1, 919
+  size: 1384, 179
+  orig: 1384, 179
+  offset: 0, 0
+  index: -1
+jump_start
+  rotate: false
+  xy: 1, 736
+  size: 1380, 181
+  orig: 1380, 181
+  offset: 0, 0
+  index: -1
+run_attacking
+  rotate: false
+  xy: 1, 553
+  size: 1376, 181
+  orig: 1376, 181
+  offset: 0, 0
+  index: -1
+throwing_in_the_air
+  rotate: false
+  xy: 1, 367
+  size: 1248, 184
+  orig: 1248, 184
+  offset: 0, 0
+  index: -1
+run_throwing
+  rotate: false
+  xy: 1, 184
+  size: 1144, 181
+  orig: 1144, 181
+  offset: 0, 0
+  index: -1
+running
+  rotate: false
+  xy: 1, 1
+  size: 1136, 181
+  orig: 1136, 181
+  offset: 0, 0
+  index: -1
+celebrating
+  rotate: false
+  xy: 1875, 1518
+  size: 1136, 175
+  orig: 1136, 175
+  offset: 0, 0
+  index: -1
+jump_loop
+  rotate: false
+  xy: 1683, 1337
+  size: 1128, 179
+  orig: 1128, 179
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1627, 1163
+  size: 1088, 172
+  orig: 1088, 172
+  offset: 0, 0
+  index: -1
+objects
+  rotate: false
+  xy: 3509, 1848
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
